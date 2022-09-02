@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=omateusporto&theme=dafault&show_icons=true" alt="Mateus Porto">
+    <img width="500em" src="https://github-readme-stats.vercel.app/api?username=omateusporto&theme=dafault&show_icons=true" alt="Mateus Porto">
 </div>
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omateusporto&layout=compact" alt="">
+    <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omateusporto&layout=compact" alt="">
 </div>
 <!--
 **oMateusPorto/omateusporto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
